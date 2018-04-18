@@ -41,3 +41,23 @@ Vulnerability #2:Cross Site Request Forgery → The error that the developer mad
 ## Notes
 
 No issues to report.
+
+
+## Gifs
+IDOR Gif:
+![](IDOR.gif)
+
+CSRF Gif:
+![](CSRF.gif)
+
+SQLi Gif:
+![](SQLi.gif)
+
+User Enumeration Gif:
+![](UserEnum.gif)
+
+Cross Site Scripting Gif:
+![](XSS.gif)
+
+Hijack Gif:
+![](Hijack.gif)
